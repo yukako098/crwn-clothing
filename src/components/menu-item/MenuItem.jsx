@@ -21,5 +21,3 @@ const MenuItem = ({ title, imageUrl, size, history, linkUrl, match }) => {
 };
 
 export default withRouter(MenuItem);
-
-// update my menu-items to navigate withRouter HOC
